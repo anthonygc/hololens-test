@@ -8,14 +8,14 @@ The goal of this project is to create a 3D experience for the Hololens. This is 
 
 I will be utilizing [Microsoft Hololens documentation](https://docs.microsoft.com/en-us/hololens/) for reference.
 
-However, I will also be using tutorials to get myself used developing using unity.
+However, I will also be using [tutorials](https://docs.microsoft.com/en-us/learn/paths/beginner-hololens-2-tutorials/) to get myself used developing using unity.
 
 
 ### Side Tasks
 
 Other projects associated with this one will be:
 
-- Developing a hololens application that could be used with the [Senseglove](https://docs.microsoft.com/en-us/hololens/)
+- Developing a hololens application that could be used with the [Senseglove](https://www.senseglove.com/)
 
 - Creating the application with more of a creative approach. 
     - This aligns with my personal goals. I hope to add in some of my own 3D models.
